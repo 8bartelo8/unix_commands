@@ -129,3 +129,5 @@ $scp -o KexAlgorithms=+diffie-hellman-group1-sha1 '8601_notes5_2024.pdf' Alberto
 
 #supposely to get something form clayton
 $pscp Alberto@128.101.218.50:/Users/alberto/idl/fac/go_fac.md go_fac.md
+
+#next commands
